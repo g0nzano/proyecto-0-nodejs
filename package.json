@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-0",
+  "version": "0.0.1",
+  "description": "Configurando e iniciando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g0nzano/proyecto-0-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "Fabio Gonzalez <gonzalezjavier645@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g0nzano/proyecto-0-nodejs/issues"
+  },
+  "homepage": "https://github.com/g0nzano/proyecto-0-nodejs#readme"
+}
